@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Loïc 👋 
 
-### I'm a junior fullstack developer, biker, woodlover, and motorcycle rider!!
+### I'm a junior fullstack developer, forex-crypto addict, woodlover, and motorcycle rider!
 
 - 🌱 I’m currently learning Data analysis, Python and solidity for cryptos and NFTs
 - 👯 I’m looking to collaborate with other content creators
