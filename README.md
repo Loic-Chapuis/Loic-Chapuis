@@ -1,7 +1,7 @@
 <h1 align="center">Hi Guys 👋, I'm Loïc</h1>
 <h3 align="center">A passionate full stack developer from Switzerland.</h3>
 
-<h3 align="left">Connect with me: <a href="https://linkedin.com/in/loic-chapuis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loic-chapuis" height="40" width="40" /></a> </h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/loic-chapuis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loic-chapuis" height="40" width="40" /></a>
 </p>
@@ -19,6 +19,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loic-chapuis&show_icons=true&locale=en&layout=compact" alt="loic-chapuis" /></p> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loic-chapuis&show_icons=true&locale=en&layout=compact" alt="loic-chapuis" /></p>
