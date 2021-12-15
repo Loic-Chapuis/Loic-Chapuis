@@ -29,6 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loic-chapuis&show_icons=true&locale=en&layout=compact" alt="loic-chapuis" /></p>
 
-
-<br />
-<br />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Loic-Chapuis)](https://git.io/streak-stats)
