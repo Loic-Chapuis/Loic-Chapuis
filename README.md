@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning Data analysis, Python and solidity for cryptos and NFTs
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
